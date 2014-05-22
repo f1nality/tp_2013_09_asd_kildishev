@@ -5,7 +5,7 @@ S. Дан массив целых чисел A[0..n). В массиве нахо
 in | out
 --- | ---
 4 | 1
-3 0 2 4 | 
+3 0 2 4
 
 Colons can be used to align columns.
 
